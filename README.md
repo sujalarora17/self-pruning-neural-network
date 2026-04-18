@@ -63,3 +63,7 @@ python train.py
 
 ## Stack
 Python · PyTorch · CIFAR-10 · Custom PrunableLinear · Adam
+
+## Research Paper
+Published research paper on climate forecasting included in this repo.
+See `research_paper.pdf`
